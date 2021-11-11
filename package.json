@@ -1,0 +1,19 @@
+{
+  "name": "file-download-test",
+  "version": "1.0.0",
+  "description": "Sample project to demonstrate how to test file download using Cypress.",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "keywords": [
+    "Cypress.io",
+    "File download testing",
+    "Talking About Testing"
+  ],
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.0.0"
+  }
+}
